@@ -14,6 +14,7 @@
 		03A4DEA62BB79A060002D471 /* everandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A4DEA52BB79A060002D471 /* everandTests.swift */; };
 		03A4DEB02BB79A060002D471 /* everandUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A4DEAF2BB79A060002D471 /* everandUITests.swift */; };
 		03A4DEB22BB79A060002D471 /* everandUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A4DEB12BB79A060002D471 /* everandUITestsLaunchTests.swift */; };
+		03A4DEBF2BB79C760002D471 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A4DEBE2BB79C760002D471 /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		03A4DEAB2BB79A060002D471 /* everandUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = everandUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A4DEAF2BB79A060002D471 /* everandUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = everandUITests.swift; sourceTree = "<group>"; };
 		03A4DEB12BB79A060002D471 /* everandUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = everandUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		03A4DEBE2BB79C760002D471 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				03A4DE942BB79A040002D471 /* everandApp.swift */,
 				03A4DE962BB79A040002D471 /* ContentView.swift */,
+				03A4DEBE2BB79C760002D471 /* Book.swift */,
 				03A4DE982BB79A050002D471 /* Assets.xcassets */,
 				03A4DE9A2BB79A050002D471 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				03A4DE972BB79A040002D471 /* ContentView.swift in Sources */,
 				03A4DE952BB79A040002D471 /* everandApp.swift in Sources */,
+				03A4DEBF2BB79C760002D471 /* Book.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
